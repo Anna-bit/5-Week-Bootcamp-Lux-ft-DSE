@@ -1,0 +1,33 @@
+Week 1 Boot Camp Learning
+#data
+#sql
+#python
+#jupyter
+I decided to take a bold step and join my first-ever data career boot camp organized by LuxDevHQ. It is a 5 week Bootcamp that equips one with hands-on data skills. The bootcamp aims to expose one to a wide variety of data skills in at least 4 fields of specialization.
+The 1st week kicked off with the info session where I went through program orientation and I was introduced to the program and taken through whole program expectations.
+
+During this 1st week, I have learnt a lot of things including:
+
+I have a better understanding of data analysis and the various roles in the different fields of specialization including data analyst, data scientist, data engineer, and analytical engineering.
+
+I have been able to install the systems and tools necessary and create the environment that I will be able to practice in. The systems that I have installed include python-anaconda, D-beaver and Power BI.
+
+I registered on kaggle and imported the weather data to work with. Then I installed the python packages(pandas and numpy) necessary to read and load the data into my jupyter notebook and performed several data analysis activities on the dataset.
+
+I developed a working knowledge and I understand how to use SQL to interact with databases and extract data.
+
+Systems and Tools I have learnt to use
+
+D-beaver - SQL
+Jupyter notebook
+
+Research and Activities that I have done
+
+a)Load dataset
+b)Filter records by condition
+c)Count records by condition
+d)Check on missing values
+e)Rename columns
+f)Calculate summary statistics eg find the mean visibility of a dataset.
+
+I am looking forward to learning more about the data collection techniques during the second week of learning. I want to leverage data analysis skills to improve the customer service experience and implement better customer service strategies.
