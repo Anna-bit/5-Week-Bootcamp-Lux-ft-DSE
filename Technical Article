@@ -1,8 +1,5 @@
-Week 1 Boot Camp Learning
-#data
-#sql
-#python
-#jupyter
+The Ultimate Guide to Data Analytics: Techniques and Tools
+#data #sql #python #jupyter
 I decided to take a bold step and join my first-ever data career boot camp organized by LuxDevHQ. It is a 5 week Bootcamp that equips one with hands-on data skills. The bootcamp aims to expose one to a wide variety of data skills in at least 4 fields of specialization.
 The 1st week kicked off with the info session where I went through program orientation and I was introduced to the program and taken through whole program expectations.
 
@@ -18,10 +15,10 @@ I developed a working knowledge and I understand how to use SQL to interact with
 
 Systems and Tools I have learnt to use
 
-D-beaver - SQL
+D-beaver - Postgresql
 Jupyter notebook
 
-Research and Activities that I have done
+Data Analysis techniques conducted
 
 a)Load dataset
 b)Filter records by condition
