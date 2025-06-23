@@ -1,12 +1,24 @@
 ## 🌦️ 5-Week Bootcamp – Lux Tech x Data Science East Africa
-During this bootcamp, I worked with sample Kaggle weather data to practice essential data analytics workflows. My key contributions included:
 
-# ✅ Data cleaning and transformation using Python (Jupyter Notebook) and MySQL
+This repository documents my work during a 5-week data analytics bootcamp organized by Lux Tech in collaboration with Data Science East Africa. The focus was on applying data cleaning, analysis, and visualization techniques using real-world weather data from Kaggle.
 
-# 📊 Exploratory Data Analysis (EDA) to uncover weather trends and anomalies
+## 🛠️ Tools & Technologies
+- **Python (Jupyter Notebook)**
+- **MySQL**
+- **Pandas, NumPy, Matplotlib, Seaborn**
+- **Kaggle Weather Dataset**
 
-# 📈 Created insightful visualizations to represent weather patterns (temperature, humidity, rainfall, etc.)
+## 📊 Project Highlights
+- Data cleaning and transformation using Python (Jupyter Notebook) and MySQL
+- Exploratory Data Analysis (EDA) to uncover weather trends and anomalies
+- Created insightful visualizations to represent weather patterns (temperature, humidity, rainfall, etc.)
+- Wrote and published technical articles to explain key concepts and methods learned
 
-# ✍️ Documented my learning journey through technical articles and notebook annotations to share knowledge and reflect on my progress
+## 🧠 What I Learned
+- Practical skills in data wrangling and feature extraction
+- Querying relational data with MySQL
+- Visual storytelling through data
+- Writing and communicating insights effectively
 
-This experience helped me strengthen my ability to move from raw data to actionable insights using industry-relevant tools.
+## 📌 About the Bootcamp
+This bootcamp was an intensive, hands-on training experience aimed at building core data analytics skills. It was hosted by [Lux Tech Academy and Data Science East Africa](https://www.luxdevhq.ai/).
